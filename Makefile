@@ -7,8 +7,8 @@ build/env.build:
 	touch $@
 
 build/resume.pdf: resume.rst build/env.build
+	python3 -c "open('resume.rst', 'rb').read().decode('ascii')"
 	build/env/bin/rst2pdf resume.rst -o $@
-	ls -l $@
 
 .PHONY: clean
 clean:
