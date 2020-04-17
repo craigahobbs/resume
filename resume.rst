@@ -66,8 +66,9 @@ of Pure Networks, Inc.
 
 * Developed transacting JNAP cloud back-channel support for Cisco Cloud Connect.
 
-* Architected and developed HNAP Development Kit (HDK), a SOAP/JSON validating client/server web services toolkit. HDK
-  library code written in C. HDK code generators, API documentation generators, and other tools written in Python.
+* Architected and developed HNAP Development Kit (HDK), a SOAP/JSON validating client/server web
+  services toolkit. HDK library code written in C. HDK code generators, API documentation
+  generators, and other tools written in Python.
 
 * Developed cross-platform build framework using GNU make to allow single build structure for
   Windows, Mac, and Linux.
