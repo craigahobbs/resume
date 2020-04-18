@@ -232,19 +232,25 @@ Member of QuarkXPress for Windows development team.
 Patents
 -------
 
-Hobbs, C. "System and method for efficiently creating splines" - US Patent No. 6654016, November
-2003
+Hobbs, C.
+"`System and method for efficiently creating splines
+<https://patents.google.com/patent/US6654016>`_" - US Patent No. 6654016, 11/2003
 
-Hobbs, C., LeGendre, S., Fuhr, R. "System and method for placing splines using refinement and
-obstacle avoidance techniques" - US Patent No. 6650328, November 2003
+Hobbs, C., LeGendre, S., Fuhr, R.
+"`System and method for placing splines using refinement and obstacle avoidance techniques
+<https://patents.google.com/patent/US6650328>`_" - US Patent No. 6650328, 11/2003
 
-Hobbs, C. "A Method for Formulaically Redirecting and Modifying Formula Set Operations in a
-Spreadsheet" - US Patent No. 7444584, October 2008
+Hobbs, C.
+"`A Method for Formulaically Redirecting and Modifying Formula Set Operations in a Spreadsheet
+<https://patents.google.com/patent/US7444584>`_" - US Patent No. 7444584, 10/2008
 
-Hobbs, C., LeGendre, S., Nelson, M. "A Method of Formulaically Bounding (Validating) Data in a
-Spreadsheet" - US Patent No. 7318192, January 2008
+Hobbs, C., LeGendre, S., Nelson, M.
+"`A Method of Formulaically Bounding (Validating) Data in a Spreadsheet
+<https://patents.google.com/patent/US7318192>`_" - US Patent No. 7318192, 1/2008
 
-Hobbs, C. "Functions acting on arbitrary geometric paths" - US Patent No. 7612776, November 2009
+Hobbs, C.
+"`Functions acting on arbitrary geometric paths
+<https://patents.google.com/patent/US7612776>`_" - US Patent No. 7612776, 11/2009
 
 
 Education
