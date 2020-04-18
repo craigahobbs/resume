@@ -1,3 +1,5 @@
+.. -*- fill-column: 100; -*-
+
 Craig Hobbs
 ===========
 
