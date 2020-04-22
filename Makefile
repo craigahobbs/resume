@@ -1,5 +1,7 @@
 .DEFAULT_GOAL := all
 
+RST2PDF_VERSION := 0.96
+
 resume.pdf: resume.rst build/env.build
 	build/env/bin/rst2pdf $< -o $@
 
@@ -12,15 +14,15 @@ resume.txt: resume.rst
 build/env.build:
 	python3 -m venv build/env
 	build/env/bin/pip install -U pip setuptools
-	build/env/bin/pip install rst2pdf
+	build/env/bin/pip install rst2pdf==$(RST2PDF_VERSION)
 	touch $@
 
 .PHONY: all
-all: resume.pdf resume.html resume.txt
+all: check resume.pdf resume.html resume.txt
 
 .PHONY: check
 check:
-	python3 -c "open('$<', 'rb').read().decode('ascii')"
+	python3 -c "open('resume.rst', 'rb').read().decode('ascii')"
 
 .PHONY: clean
 clean:
