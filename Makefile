@@ -6,6 +6,9 @@ resume.pdf: resume.rst build/env.build
 resume.html: resume.rst build/env.build
 	build/env/bin/rst2html.py $< $@
 
+resume.txt: resume.rst
+	tail -n +3 $< > $@
+
 build/env.build:
 	python3 -m venv build/env
 	build/env/bin/pip install -U pip setuptools
@@ -13,7 +16,7 @@ build/env.build:
 	touch $@
 
 .PHONY: all
-all: resume.pdf resume.html
+all: resume.pdf resume.html resume.txt
 
 .PHONY: check
 check:
