@@ -234,23 +234,23 @@ Patents
 
 Hobbs, C.
 "`System and method for efficiently creating splines
-<https://patents.google.com/patent/US6654016>`_" - US Patent No. 6654016, 11/2003
+<https://patents.google.com/patent/US6654016>`_" - US Patent No. 6654016, 2003
 
 Hobbs, C., LeGendre, S., Fuhr, R.
 "`System and method for placing splines using refinement and obstacle avoidance techniques
-<https://patents.google.com/patent/US6650328>`_" - US Patent No. 6650328, 11/2003
+<https://patents.google.com/patent/US6650328>`_" - US Patent No. 6650328, 2003
 
 Hobbs, C.
 "`A Method for Formulaically Redirecting and Modifying Formula Set Operations in a Spreadsheet
-<https://patents.google.com/patent/US7444584>`_" - US Patent No. 7444584, 10/2008
+<https://patents.google.com/patent/US7444584>`_" - US Patent No. 7444584, 2008
 
 Hobbs, C., LeGendre, S., Nelson, M.
 "`A Method of Formulaically Bounding (Validating) Data in a Spreadsheet
-<https://patents.google.com/patent/US7318192>`_" - US Patent No. 7318192, 1/2008
+<https://patents.google.com/patent/US7318192>`_" - US Patent No. 7318192, 2008
 
 Hobbs, C.
 "`Functions acting on arbitrary geometric paths
-<https://patents.google.com/patent/US7612776>`_" - US Patent No. 7612776, 11/2009
+<https://patents.google.com/patent/US7612776>`_" - US Patent No. 7612776, 2009
 
 
 Education

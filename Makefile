@@ -1,4 +1,10 @@
-.DEFAULT_GOAL := build/resume.pdf
+.DEFAULT_GOAL := all
+
+resume.pdf: resume.rst build/env.build
+	build/env/bin/rst2pdf $< -o $@
+
+resume.html: resume.rst build/env.build
+	build/env/bin/rst2html.py $< $@
 
 build/env.build:
 	python3 -m venv build/env
@@ -6,9 +12,12 @@ build/env.build:
 	build/env/bin/pip install rst2pdf
 	touch $@
 
-build/resume.pdf: resume.rst build/env.build
+.PHONY: all
+all: resume.pdf resume.html
+
+.PHONY: check
+check:
 	python3 -c "open('$<', 'rb').read().decode('ascii')"
-	build/env/bin/rst2pdf $< -o $@
 
 .PHONY: clean
 clean:

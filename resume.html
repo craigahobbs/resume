@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.16: http://docutils.sourceforge.net/" />
+<title>Craig Hobbs</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 7952 2016-07-26 18:15:59Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+.subscript {
+  vertical-align: sub;
+  font-size: smaller }
+
+.superscript {
+  vertical-align: super;
+  font-size: smaller }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
+  overflow: hidden;
+}
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title, .code .error {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left, object.align-left, table.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right, object.align-right, table.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+img.align-center, .figure.align-center, object.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.align-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: inherit }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+.align-top    {
+  vertical-align: top }
+
+.align-middle {
+  vertical-align: middle }
+
+.align-bottom {
+  vertical-align: bottom }
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block, pre.math, pre.code {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+pre.code .ln { color: grey; } /* line numbers */
+pre.code, code { background-color: #eeeeee }
+pre.code .comment, code .comment { color: #5C6576 }
+pre.code .keyword, code .keyword { color: #3B0D06; font-weight: bold }
+pre.code .literal.string, code .literal.string { color: #0C5404 }
+pre.code .name.builtin, code .name.builtin { color: #352B84 }
+pre.code .deleted, code .deleted { background-color: #DEB0A1}
+pre.code .inserted, code .inserted { background-color: #A3D289}
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+/* "booktabs" style (no vertical lines) */
+table.docutils.booktabs {
+  border: 0px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  border-collapse: collapse;
+}
+table.docutils.booktabs * {
+  border: 0px;
+}
+table.docutils.booktabs th {
+  border-bottom: thin solid;
+  text-align: left;
+}
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document" id="craig-hobbs">
+<h1 class="title">Craig Hobbs</h1>
+
+<!-- -*- fill-column: 100; -*- -->
+<div class="line-block">
+<div class="line">7051 Alonzo Ave NW</div>
+<div class="line">Seattle, WA 98117</div>
+<div class="line">206-790-1246</div>
+<div class="line"><a class="reference external" href="mailto:craigahobbs&#64;gmail.com">craigahobbs&#64;gmail.com</a></div>
+</div>
+<div class="section" id="software-development-leader">
+<h1>Software Development Leader</h1>
+<p>Experienced software development manager and software developer with a passion for building
+effective software teams and systems.</p>
+<ul class="simple">
+<li>15 years experience managing software development teams</li>
+<li>20 years C/C++ software development experience</li>
+<li>10 years Python software development experience</li>
+<li>Other languages: JavaScript, HTML, CSS, Java, C#</li>
+</ul>
+</div>
+<div class="section" id="experience">
+<h1>Experience</h1>
+<div class="line-block">
+<div class="line"><strong>Senior Director, Engineering</strong></div>
+<div class="line">Zillow Group, Seattle, WA</div>
+<div class="line">2/2017 - 5/2019</div>
+</div>
+<p>Director of Engineering responsible for Zillow Home Loans, Zillow Mortgages (marketplace), and
+Mortech.</p>
+<ul class="simple">
+<li>Managed three geographically distributed software development teams.</li>
+<li>Launched Zillow Home Loans with revamped technology stack.</li>
+<li>Led technical due diligence for Mortgage Lenders of America acquisition (completed 11/2018).</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Senior Development Manager</strong></div>
+<div class="line">Zillow Group, Seattle, WA</div>
+<div class="line">4/2012 - 2/2017</div>
+</div>
+<p>Software Development Manager for Zillow Mortgages.</p>
+<ul class="simple">
+<li>Managed team of 6 developers.</li>
+<li>Transitioned legacy Java web application to Python back-end web services and React client-rendered
+front-end application.</li>
+<li>Led technical due diligence for Mortech acquisition (completed 11/2012).</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Software Development Manager</strong></div>
+<div class="line">Cisco Systems, Seattle, WA</div>
+<div class="line">8/2008 - 11/2011</div>
+</div>
+<p>Development manager of Cisco Home Networking Platform team. Acquired as part of Cisco's acquisition
+of Pure Networks, Inc.</p>
+<ul class="simple">
+<li>Managed Cisco Home Networking Software Platform team of 4-5 developers.</li>
+<li>Managed effort to define the JNAP web services protocol for Cisco Cloud Connect. Generated
+complete documentation set for HNAP and JNAP protocols.</li>
+<li>Architected and developed Cisco Cloud Connect embedded transactional SOAP/JSON web services
+framework for JNAP/HNAP protocols in Lua and C based on the HDK server. Framework included
+simulated device unit test framework for thorough implementation unit testing.</li>
+<li>Developed transacting JNAP cloud back-channel support for Cisco Cloud Connect.</li>
+<li>Architected and developed HNAP Development Kit (HDK), a SOAP/JSON validating client/server web
+services toolkit. HDK library code written in C. HDK code generators, API documentation
+generators, and other tools written in Python.</li>
+<li>Developed cross-platform build framework using GNU make to allow single build structure for
+Windows, Mac, and Linux.</li>
+<li>Defined HNAP Specification Language (HSL) for defining HNAP and JNAP protocols. Developed language
+parser, language object model, and schema/module code generator tool in Python.</li>
+<li>Developed HDK Lua language bindings in C and Lua C API.</li>
+<li>Managed effort to develop JNAP/HNAP certification tools as well as ensuring that devices passed
+certification. Worked with internal and external partners to address issues.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Lead Software Development Engineer</strong></div>
+<div class="line">Cisco Systems, Seattle, WA</div>
+<div class="line">2/2008 - 8/2008</div>
+</div>
+<p>Development manager of Pure Networks Platform team. Acquired by Cisco.</p>
+<ul class="simple">
+<li>Managed Pure Networks (Network Magic) Platform Team of 4-5 developers.</li>
+<li>Managed Pure Networks Platform release cycles ensuring timely delivery of platform features to
+licensees (e.g. Cisco) and internal customers (e.g. Network Magic).</li>
+<li>Develop features in Pure Networks platform using C++ and COM.</li>
+<li>Manage effort to fully document Pure Networks Platform using Doxygen.</li>
+<li>Technical point of contact for Pure Networks Platform licensees. Worked with business development
+team to pitch the Pure Networks Platform to potential partners.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Lead Software Development Engineer</strong></div>
+<div class="line">Tableau Software, Seattle, WA</div>
+<div class="line">7/2005 - 12/2007</div>
+</div>
+<p>Development Lead for Tableau Desktop team.</p>
+<ul class="simple">
+<li>Managed Tableau Desktop team of 3-5 developers.</li>
+<li>Managed Tableau Desktop product requirements gathering, feature definition, and software
+development schedules.</li>
+<li>Architected and developed annotation feature using C++ -- Visio-like smart shape engine, rendering
+surface, hit-testing, selection, and abstract handle architecture.</li>
+<li>Designed and developed packaged workbook feature using C++ and zlib. Created packaged workbook
+APIs using C++ for Tableau Server.</li>
+<li>Designed and developed columnar visualization field labels feature using C++.</li>
+<li>Designed and developed data label manipulation feature using C++.</li>
+<li>Designed and developed mapped image UI and hyperlinks UI using C++ and MFC.</li>
+<li>Designed and developed filtering UIs, joins UI, data extract UI, and table calc UI using C++ and
+MFC. Re-factored backend filter editing interfaces.</li>
+<li>Designed and developed color encodings and UI using C++ and MFC. Created color palette editing
+tool in Visio.</li>
+<li>Designed and developed Tableau printing support using C++ and MFC.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Senior Software Development Engineer</strong></div>
+<div class="line">Microsoft, Seattle, WA</div>
+<div class="line">9/2000 - 4/2004</div>
+</div>
+<p>Visio ShapeSheet Owner - Responsible for Visio ShapeSheet Engine (SSE), binary file format, binary
+file format conversion, drawing/shape merge, placement and routing.</p>
+<ul class="simple">
+<li>Invented and implemented SSE geometry functions using C++.</li>
+<li>Designed and implemented SSE cell functions using C++.</li>
+<li>Designed and implemented SSE model generation using C++.</li>
+<li>Invented and implemented SSE SetAtRef and Bound functionality using C++.</li>
+<li>Added new sections, rows, cells, functions, enumerations, and types using C++.</li>
+<li>Implemented &quot;phase 3&quot; conversion framework (C++) and code generation tool (Perl).</li>
+<li>Implemented indexed-to-named section conversion using C++.</li>
+<li>Designed and implemented Visio ShapeSheet file format reporting and differencing tool using Perl.</li>
+<li>Implemented NURBS connector (curved appearance dynamic connector with obstacle avoidance) using
+C++.</li>
+<li>Re-factored graph object synchronization code using C++.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Lead Software Development Engineer</strong></div>
+<div class="line">Rivals.com, Seattle, WA</div>
+<div class="line">11/1999 - 9/2000</div>
+</div>
+<p>Development Lead for Rivals website team of 4 developers.</p>
+<ul class="simple">
+<li>Managed team of 4 developers responsible for developing Rivals.com website.</li>
+<li>Developed live Major League Baseball scores page using Perl and Javascript.</li>
+<li>Designed and developed Rivals template builder architecture. Wrote template compiler using
+C++. Designed database schema and stored procedures using SQL Server. Developed website runtime
+support using ASP, Javascript, and ADO.</li>
+<li>Developed Rivals.com website Javascript preprocessor using C preprocessor and nmake.</li>
+<li>Developed common href utilities and macros using Javascript, ASP, and C macros. This enabled
+multiple verticals and multiple domains per server.</li>
+<li>Developed website debug and profiling facilities using ASP, Javascript, and C macros. Developed
+Rivals debug window for viewing debug output in VB. Wrote profiler ASP component using C++, ATL,
+COM.</li>
+<li>Developed several website modules including ad module and story modules using ASP, Javascript, and
+ADO.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Software Development Engineer</strong></div>
+<div class="line">Visio Corporation, Seattle, WA</div>
+<div class="line">6/1997 - 11/1999</div>
+</div>
+<p>Developer on Visio Engine Placement and Routing (PNR) Team.</p>
+<ul class="simple">
+<li>Responsible for development of graph object and integration with Visio engine; implemented C++,
+ATL, COM, IDL.</li>
+<li>Wrote PNR feature definition for Visio 2000; detailed functionality, UI, data requirements, file
+conversion.</li>
+<li>Designed and developed custom properties and size and position windows in C++ and MFC.</li>
+<li>Designed and developed dialog sub-system and viewer in C++ and MFC.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Software Development Engineer</strong></div>
+<div class="line">Hughes Information Technology Systems, Aurora, CO</div>
+<div class="line">2/1996 - 5/1997</div>
+</div>
+<ul class="simple">
+<li>Architect/developer on Java distributed agent research project; designed distributed agent
+architecture and developed domain-specific solutions within architecture. Implemented using Java
+and Java RMI.</li>
+<li>Developed C++ GUI (X/Motif) code generation tool in C++; tool used extensively in-house to improve
+efficiency and quality of C++ GUI development.</li>
+<li>Designed and developed X/Motif GUI front-end for C++ GUI code generation tool in C++.</li>
+<li>Developed automatic code-merging feature for C++ GUI code generation tool in Perl.</li>
+</ul>
+<div class="line-block">
+<div class="line"><strong>Software Development Engineer</strong></div>
+<div class="line">Quark, Inc., Seattle, WA</div>
+<div class="line">6/1993 - 2/1995</div>
+</div>
+<p>Member of QuarkXPress for Windows development team.</p>
+<ul class="simple">
+<li>Designed and implemented context sensitive help support in QuarkXPress in C.</li>
+<li>Developed software (C++) and process used to duplicate and serialize product diskettes increasing
+ease of use and installation; made product production more efficient.</li>
+</ul>
+</div>
+<div class="section" id="patents">
+<h1>Patents</h1>
+<p>Hobbs, C.
+&quot;<a class="reference external" href="https://patents.google.com/patent/US6654016">System and method for efficiently creating splines</a>&quot; - US Patent No. 6654016, 2003</p>
+<p>Hobbs, C., LeGendre, S., Fuhr, R.
+&quot;<a class="reference external" href="https://patents.google.com/patent/US6650328">System and method for placing splines using refinement and obstacle avoidance techniques</a>&quot; - US Patent No. 6650328, 2003</p>
+<p>Hobbs, C.
+&quot;<a class="reference external" href="https://patents.google.com/patent/US7444584">A Method for Formulaically Redirecting and Modifying Formula Set Operations in a Spreadsheet</a>&quot; - US Patent No. 7444584, 2008</p>
+<p>Hobbs, C., LeGendre, S., Nelson, M.
+&quot;<a class="reference external" href="https://patents.google.com/patent/US7318192">A Method of Formulaically Bounding (Validating) Data in a Spreadsheet</a>&quot; - US Patent No. 7318192, 2008</p>
+<p>Hobbs, C.
+&quot;<a class="reference external" href="https://patents.google.com/patent/US7612776">Functions acting on arbitrary geometric paths</a>&quot; - US Patent No. 7612776, 2009</p>
+</div>
+<div class="section" id="education">
+<h1>Education</h1>
+<div class="line-block">
+<div class="line"><em>Masters of Business Administration (MBA), Technology Management</em>, 2007</div>
+<div class="line">University of Washington, Seattle, WA</div>
+</div>
+<div class="line-block">
+<div class="line"><em>Bachelor of Science (BSc), Electrical and Computer Engineering</em>, 1993</div>
+<div class="line">University of Colorado, Boulder, CO</div>
+</div>
+</div>
+</div>
+</body>
+</html>
