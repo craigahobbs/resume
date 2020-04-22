@@ -3,7 +3,7 @@
 RST2PDF_VERSION := 0.96
 
 resume.pdf: resume.rst build/env.build
-	build/env/bin/rst2pdf $< -o $@
+	build/env/bin/rst2pdf $< -s $(basename $<).yaml -o $@
 
 resume.html: resume.rst build/env.build
 	build/env/bin/rst2html.py $< $@

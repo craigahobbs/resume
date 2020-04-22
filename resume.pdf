@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 12 0 R
+/F1 2 0 R /F2 3 0 R /F3 11 0 R
 >>
 endobj
 2 0 obj
@@ -19,12 +19,12 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:craigahobbs@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 677.7736 172.8729 689.7736 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 60 660.7768 170.18 672.7768 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Annots [ 4 0 R ] /Contents 21 0 R /MediaBox [ 0 0 612 792 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -34,7 +34,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Contents 22 0 R /MediaBox [ 0 0 612 792 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -46,45 +46,38 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://patents.google.com/patent/US6650328)
->> /Border [ 0 0 0 ] /Rect [ 220.2029 606.0236 532.2854 618.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 217.51 701.6268 525.43 713.6268 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://patents.google.com/patent/US6650328)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 594.0236 159.4129 606.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 60 689.6268 156.72 701.6268 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://patents.google.com/patent/US7444584)
->> /Border [ 0 0 0 ] /Rect [ 113.4829 576.0236 528.4312 588.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 110.79 671.6268 535.4 683.6268 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://patents.google.com/patent/US7444584)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 564.0236 119.3929 576.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://patents.google.com/patent/US7612776)
+>> /Border [ 0 0 0 ] /Rect [ 110.79 641.6268 310.87 653.6268 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://patents.google.com/patent/US7612776)
->> /Border [ 0 0 0 ] /Rect [ 113.4829 546.0236 313.5629 558.0236 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 12 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
->>
-endobj
-13 0 obj
-<<
-/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 23 0 R /MediaBox [ 0 0 612 792 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -92,115 +85,115 @@ endobj
 >> /Type /Page
 >>
 endobj
+13 0 obj
+<<
+/Outlines 15 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
+>>
+endobj
 14 0 obj
 <<
-/Outlines 16 0 R /PageLabels 25 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog
+/Author () /CreationDate (D:20200422163357+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200422163357+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Craig Hobbs) /Trapped /False
 >>
 endobj
 15 0 obj
 <<
-/Author () /CreationDate (D:20200422153331+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200422153331+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Craig Hobbs) /Trapped /False
+/Count 4 /First 16 0 R /Last 19 0 R /Type /Outlines
 >>
 endobj
 16 0 obj
 <<
-/Count 4 /First 17 0 R /Last 20 0 R /Type /Outlines
+/Dest [ 5 0 R /XYZ 60 652.0268 0 ] /Next 17 0 R /Parent 15 0 R /Title (Software Development Leader)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 665.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Software Development Leader)
+/Dest [ 5 0 R /XYZ 60 537.8268 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Experience)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 530.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Experience)
+/Dest [ 12 0 R /XYZ 60 735.8268 0 ] /Next 19 0 R /Parent 15 0 R /Prev 17 0 R /Title (Patents)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 645.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (Patents)
+/Dest [ 12 0 R /XYZ 60 633.6268 0 ] /Parent 15 0 R /Prev 18 0 R /Title (Education)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 534.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Education)
+/Count 3 /Kids [ 5 0 R 6 0 R 12 0 R ] /Type /Pages
 >>
 endobj
 21 0 obj
 <<
-/Count 3 /Kids [ 5 0 R 6 0 R 13 0 R ] /Type /Pages
->>
-endobj
-22 0 obj
-<<
-/Length 8348
+/Length 9097
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 741.0236 cm
+1 0 0 1 60 716.0268 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 175.4949 0 Td (Craig Hobbs) Tj T* -175.4949 0 Td ET
+BT 1 0 0 1 0 3.3 Tm /F2 16.5 Tf 19.8 TL (Craig Hobbs) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 725.0236 cm
+1 0 0 1 60 708.0268 cm
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 60 696.0268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7051 Alonzo Ave NW) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 701.0236 cm
+1 0 0 1 60 684.0268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Seattle, WA 98117) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 689.0236 cm
+1 0 0 1 60 672.0268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (206-790-1246) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 60 660.0268 cm
 q
 0 0 .501961 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (craigahobbs@gmail.com) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 60 660.0268 cm
 Q
 q
-1 0 0 1 62.69291 644.0236 cm
+1 0 0 1 60 635.8268 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Software Development Leader) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F2 13.5 Tf 0 0 0 rg (Software Development Leader) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 614.0236 cm
+1 0 0 1 60 605.8268 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .57498 Tw (Experienced software development manager and software developer with a passion for building effective) Tj T* 0 Tw (software teams and systems.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Experienced software development manager and software developer with a passion for building effective) Tj T* (software teams and systems.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 608.0236 cm
+1 0 0 1 60 603.8268 cm
 Q
 q
-1 0 0 1 62.69291 608.0236 cm
+1 0 0 1 60 603.8268 cm
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 60 591.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -221,10 +214,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 590.0236 cm
+1 0 0 1 60 589.8268 cm
 Q
 q
-1 0 0 1 62.69291 578.0236 cm
+1 0 0 1 60 577.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -245,10 +238,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 572.0236 cm
+1 0 0 1 60 575.8268 cm
 Q
 q
-1 0 0 1 62.69291 560.0236 cm
+1 0 0 1 60 563.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -269,10 +262,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 554.0236 cm
+1 0 0 1 60 561.8268 cm
 Q
 q
-1 0 0 1 62.69291 542.0236 cm
+1 0 0 1 60 549.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -293,56 +286,56 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 542.0236 cm
+1 0 0 1 60 545.8268 cm
 Q
 q
-1 0 0 1 62.69291 509.0236 cm
+1 0 0 1 60 521.6268 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Experience) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F2 13.5 Tf 0 0 0 rg (Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 497.0236 cm
+1 0 0 1 60 515.6268 cm
 Q
 q
-1 0 0 1 62.69291 485.0236 cm
+1 0 0 1 60 503.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Director, Engineering) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 473.0236 cm
+1 0 0 1 60 491.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zillow Group, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 461.0236 cm
+1 0 0 1 60 479.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2/2017 - 5/2019) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 461.0236 cm
+1 0 0 1 60 479.6268 cm
 Q
 q
-1 0 0 1 62.69291 443.0236 cm
+1 0 0 1 60 461.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Director of Engineering responsible for Zillow Home Loans, Zillow Mortgages \(marketplace\), and Mortech.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 437.0236 cm
+1 0 0 1 60 459.6268 cm
 Q
 q
-1 0 0 1 62.69291 437.0236 cm
+1 0 0 1 60 459.6268 cm
 Q
 q
-1 0 0 1 62.69291 425.0236 cm
+1 0 0 1 60 447.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -363,10 +356,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 419.0236 cm
+1 0 0 1 60 445.6268 cm
 Q
 q
-1 0 0 1 62.69291 407.0236 cm
+1 0 0 1 60 433.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -387,10 +380,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 401.0236 cm
+1 0 0 1 60 431.6268 cm
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 60 419.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -411,50 +404,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 60 415.6268 cm
 Q
 q
-1 0 0 1 62.69291 383.0236 cm
+1 0 0 1 60 409.6268 cm
 Q
 q
-1 0 0 1 62.69291 371.0236 cm
+1 0 0 1 60 397.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Development Manager) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 359.0236 cm
+1 0 0 1 60 385.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zillow Group, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 60 373.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4/2012 - 2/2017) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 60 373.6268 cm
 Q
 q
-1 0 0 1 62.69291 329.0236 cm
+1 0 0 1 60 355.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Development Manager for Zillow Mortgages.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 323.0236 cm
+1 0 0 1 60 353.6268 cm
 Q
 q
-1 0 0 1 62.69291 323.0236 cm
+1 0 0 1 60 353.6268 cm
 Q
 q
-1 0 0 1 62.69291 311.0236 cm
+1 0 0 1 60 341.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -475,10 +468,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 305.0236 cm
+1 0 0 1 60 339.6268 cm
 Q
 q
-1 0 0 1 62.69291 281.0236 cm
+1 0 0 1 60 315.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -492,17 +485,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.065433 Tw (Transitioned legacy Java web application to Python back-end web services and React) Tj T* 0 Tw (client-rendered front-end application.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Transitioned legacy Java web application to Python back-end web services and React client-rendered) Tj T* (front-end application.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 60 313.6268 cm
 Q
 q
-1 0 0 1 62.69291 263.0236 cm
+1 0 0 1 60 301.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -523,50 +516,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 263.0236 cm
+1 0 0 1 60 297.6268 cm
 Q
 q
-1 0 0 1 62.69291 257.0236 cm
+1 0 0 1 60 291.6268 cm
 Q
 q
-1 0 0 1 62.69291 245.0236 cm
+1 0 0 1 60 279.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Development Manager) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 233.0236 cm
+1 0 0 1 60 267.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cisco Systems, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 221.0236 cm
+1 0 0 1 60 255.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8/2008 - 11/2011) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 221.0236 cm
+1 0 0 1 60 255.6268 cm
 Q
 q
-1 0 0 1 62.69291 203.0236 cm
+1 0 0 1 60 237.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Development manager of Cisco Home Networking Platform team.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 197.0236 cm
+1 0 0 1 60 235.6268 cm
 Q
 q
-1 0 0 1 62.69291 197.0236 cm
+1 0 0 1 60 235.6268 cm
 Q
 q
-1 0 0 1 62.69291 185.0236 cm
+1 0 0 1 60 223.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -587,10 +580,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 179.0236 cm
+1 0 0 1 60 221.6268 cm
 Q
 q
-1 0 0 1 62.69291 167.0236 cm
+1 0 0 1 60 209.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -611,10 +604,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 161.0236 cm
+1 0 0 1 60 207.6268 cm
 Q
 q
-1 0 0 1 62.69291 149.0236 cm
+1 0 0 1 60 195.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -635,59 +628,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 149.0236 cm
+1 0 0 1 60 191.6268 cm
 Q
 q
-1 0 0 1 62.69291 143.0236 cm
+1 0 0 1 60 185.6268 cm
 Q
 q
-1 0 0 1 62.69291 131.0236 cm
+1 0 0 1 60 173.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Lead Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 119.0236 cm
+1 0 0 1 60 161.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cisco Systems, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 107.0236 cm
+1 0 0 1 60 149.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2/2008 - 8/2008) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 107.0236 cm
+1 0 0 1 60 149.6268 cm
 Q
 q
-1 0 0 1 62.69291 89.02362 cm
+1 0 0 1 60 131.6268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Development manager of Pure Networks Platform team. Acquired by Cisco.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 83.02362 cm
+1 0 0 1 60 129.6268 cm
 Q
 q
-1 0 0 1 62.69291 83.02362 cm
+1 0 0 1 60 129.6268 cm
 Q
- 
-endstream
-endobj
-23 0 obj
-<<
-/Length 10273
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 753.0236 cm
+1 0 0 1 60 117.6268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -708,10 +692,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 60 115.6268 cm
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 60 91.62677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -725,17 +709,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.950814 Tw (Managed Pure Networks Platform release cycles ensuring timely delivery of platform features to) Tj T* 0 Tw (licensees \(e.g. Cisco\) and internal customers \(e.g. Network Magic\).) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Managed Pure Networks Platform release cycles ensuring timely delivery of platform features to licensees) Tj T* (\(e.g. Cisco\) and internal customers \(e.g. Network Magic\).) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 60 89.62677 cm
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 60 65.62677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -749,57 +733,66 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .28248 Tw (Technical point of contact for Pure Networks Platform licensees. Worked with business development) Tj T* 0 Tw (team to pitch the Pure Networks Platform to potential partners.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Technical point of contact for Pure Networks Platform licensees. Worked with business development team) Tj T* (to pitch the Pure Networks Platform to potential partners.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 60 61.62677 cm
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 60 56.17323 cm
 Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Length 10081
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 675.0236 cm
+1 0 0 1 60 723.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Lead Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 663.0236 cm
+1 0 0 1 60 711.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tableau Software, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 60 699.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7/2005 - 12/2007) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 60 699.8268 cm
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 60 681.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Development Lead for Tableau Desktop team.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 60 679.8268 cm
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 60 679.8268 cm
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 60 667.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -820,10 +813,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 60 665.8268 cm
 Q
 q
-1 0 0 1 62.69291 597.0236 cm
+1 0 0 1 60 653.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -844,10 +837,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 60 651.8268 cm
 Q
 q
-1 0 0 1 62.69291 567.0236 cm
+1 0 0 1 60 627.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -861,17 +854,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.083615 Tw (Architected and developed annotation feature using C++ -- Visio-like smart shapes, rendering) Tj T* 0 Tw (surface, hit-testing, selection, and abstract handle architecture.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Architected and developed annotation feature using C++ -- Visio-like smart shapes, rendering surface,) Tj T* (hit-testing, selection, and abstract handle architecture.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 60 625.8268 cm
 Q
 q
-1 0 0 1 62.69291 537.0236 cm
+1 0 0 1 60 601.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -885,57 +878,57 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.434524 Tw (Designed and developed packaged workbook feature using C++ and zlib. Created packaged) Tj T* 0 Tw (workbook APIs using C++ for Tableau Server.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Designed and developed packaged workbook feature using C++ and zlib. Created packaged workbook) Tj T* (APIs using C++ for Tableau Server.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 537.0236 cm
+1 0 0 1 60 597.8268 cm
 Q
 q
-1 0 0 1 62.69291 531.0236 cm
+1 0 0 1 60 591.8268 cm
 Q
 q
-1 0 0 1 62.69291 519.0236 cm
+1 0 0 1 60 579.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 507.0236 cm
+1 0 0 1 60 567.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Microsoft, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 495.0236 cm
+1 0 0 1 60 555.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9/2000 - 4/2004) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 495.0236 cm
+1 0 0 1 60 555.8268 cm
 Q
 q
-1 0 0 1 62.69291 465.0236 cm
+1 0 0 1 60 525.8268 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .20498 Tw (Responsible for Visio ShapeSheet Engine \(SSE\), binary file format, drawing/shape merge, placement and) Tj T* 0 Tw (routing.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Responsible for Visio ShapeSheet Engine \(SSE\), binary file format, drawing/shape merge, placement and) Tj T* (routing.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 459.0236 cm
+1 0 0 1 60 523.8268 cm
 Q
 q
-1 0 0 1 62.69291 459.0236 cm
+1 0 0 1 60 523.8268 cm
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 60 511.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -956,10 +949,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 60 509.8268 cm
 Q
 q
-1 0 0 1 62.69291 429.0236 cm
+1 0 0 1 60 497.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -980,10 +973,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 60 495.8268 cm
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 60 483.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1004,10 +997,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 60 481.8268 cm
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 60 469.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1028,50 +1021,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 60 465.8268 cm
 Q
 q
-1 0 0 1 62.69291 387.0236 cm
+1 0 0 1 60 459.8268 cm
 Q
 q
-1 0 0 1 62.69291 375.0236 cm
+1 0 0 1 60 447.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Lead Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 60 435.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Rivals.com, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 60 423.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11/1999 - 9/2000) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 60 423.8268 cm
 Q
 q
-1 0 0 1 62.69291 333.0236 cm
+1 0 0 1 60 405.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Development Lead for Rivals.com website development team.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 327.0236 cm
+1 0 0 1 60 403.8268 cm
 Q
 q
-1 0 0 1 62.69291 327.0236 cm
+1 0 0 1 60 403.8268 cm
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 60 391.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1092,10 +1085,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 309.0236 cm
+1 0 0 1 60 389.8268 cm
 Q
 q
-1 0 0 1 62.69291 297.0236 cm
+1 0 0 1 60 377.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1116,10 +1109,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
+1 0 0 1 60 375.8268 cm
 Q
 q
-1 0 0 1 62.69291 279.0236 cm
+1 0 0 1 60 363.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1140,10 +1133,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 273.0236 cm
+1 0 0 1 60 361.8268 cm
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 60 349.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1164,50 +1157,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 60 345.8268 cm
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 60 339.8268 cm
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 60 327.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 60 315.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Visio Corporation, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 60 303.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6/1997 - 11/1999) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 60 303.8268 cm
 Q
 q
-1 0 0 1 62.69291 201.0236 cm
+1 0 0 1 60 285.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software developer on Visio Engine Placement and Routing Team.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 60 283.8268 cm
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 60 283.8268 cm
 Q
 q
-1 0 0 1 62.69291 183.0236 cm
+1 0 0 1 60 271.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1228,10 +1221,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 177.0236 cm
+1 0 0 1 60 269.8268 cm
 Q
 q
-1 0 0 1 62.69291 165.0236 cm
+1 0 0 1 60 257.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1252,10 +1245,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 159.0236 cm
+1 0 0 1 60 255.8268 cm
 Q
 q
-1 0 0 1 62.69291 147.0236 cm
+1 0 0 1 60 243.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1276,43 +1269,43 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 147.0236 cm
+1 0 0 1 60 239.8268 cm
 Q
 q
-1 0 0 1 62.69291 141.0236 cm
+1 0 0 1 60 233.8268 cm
 Q
 q
-1 0 0 1 62.69291 129.0236 cm
+1 0 0 1 60 221.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 117.0236 cm
+1 0 0 1 60 209.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hughes Information Technology Systems, Aurora, CO) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 105.0236 cm
+1 0 0 1 60 197.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2/1996 - 5/1997) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 105.0236 cm
+1 0 0 1 60 197.8268 cm
 Q
 q
-1 0 0 1 62.69291 99.02362 cm
+1 0 0 1 60 195.8268 cm
 Q
 q
-1 0 0 1 62.69291 99.02362 cm
+1 0 0 1 60 195.8268 cm
 Q
 q
-1 0 0 1 62.69291 87.02362 cm
+1 0 0 1 60 183.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1333,19 +1326,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 81.02362 cm
+1 0 0 1 60 181.8268 cm
 Q
- 
-endstream
-endobj
-24 0 obj
-<<
-/Length 3459
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 753.0236 cm
+1 0 0 1 60 169.8268 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1366,50 +1350,50 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 753.0236 cm
+1 0 0 1 60 165.8268 cm
 Q
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 60 159.8268 cm
 Q
 q
-1 0 0 1 62.69291 735.0236 cm
+1 0 0 1 60 147.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Development Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 60 135.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Quark, Inc., Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 60 123.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6/1993 - 2/1995) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 60 123.8268 cm
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 60 105.8268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Member of QuarkXPress for Windows development team.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 60 103.8268 cm
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 60 103.8268 cm
 Q
 q
-1 0 0 1 62.69291 675.0236 cm
+1 0 0 1 60 91.82677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1430,10 +1414,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 60 89.82677 cm
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 60 77.82677 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1454,140 +1438,148 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 60 73.82677 cm
 Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Length 1698
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 60 719.6268 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Patents) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 594.0236 cm
-q
-BT 1 0 0 1 0 14 Tm .297318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Hobbs, C., LeGendre, S., Fuhr, R. ") Tj 0 0 .501961 rg (System and method for placing splines using refinement and obstacle) Tj T* 0 Tw (avoidance techniques) Tj 0 0 0 rg (" - US Patent No. 6650328, 2003) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 564.0236 cm
-q
-BT 1 0 0 1 0 14 Tm 4.15152 Tw 12 TL /F1 10 Tf 0 0 0 rg (Hobbs, C. ") Tj 0 0 .501961 rg (A Method for Formulaically Redirecting and Modifying Formula Set Operations in a) Tj T* 0 Tw (Spreadsheet) Tj 0 0 0 rg (" - US Patent No. 7444584, 2008) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F2 13.5 Tf 0 0 0 rg (Patents) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 546.0236 cm
+1 0 0 1 60 689.6268 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Hobbs, C., LeGendre, S., Fuhr, R. ") Tj 0 0 .501961 rg (System and method for placing splines using refinement and obstacle) Tj T* (avoidance techniques) Tj 0 0 0 rg (" - US Patent No. 6650328, 2003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 659.6268 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Hobbs, C. ") Tj 0 0 .501961 rg (A Method for Formulaically Redirecting and Modifying Formula Set Operations in a Spreadsheet) Tj 0 0 0 rg (" -) Tj T* (US Patent No. 7444584, 2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 641.6268 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Hobbs, C. ") Tj 0 0 .501961 rg (Functions acting on arbitrary geometric paths) Tj 0 0 0 rg (" - US Patent No. 7612776, 2009) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 60 617.4268 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F2 13.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 60 611.4268 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 60 599.4268 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Masters of Business Administration \(MBA\), Technology Management) Tj /F1 10 Tf (, 2007) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 60 587.4268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (University of Washington, Seattle, WA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 60 587.4268 cm
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 60 581.4268 cm
 Q
 q
-1 0 0 1 62.69291 459.0236 cm
+1 0 0 1 60 569.4268 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Bachelor of Science \(BSc\), Electrical and Computer Engineering) Tj /F1 10 Tf (, 1993) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 60 557.4268 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (University of Colorado, Boulder, CO) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 60 557.4268 cm
 Q
  
 endstream
 endobj
-25 0 obj
+24 0 obj
 <<
-/Nums [ 0 26 0 R 1 27 0 R 2 28 0 R ]
+/Nums [ 0 25 0 R 1 26 0 R 2 27 0 R ]
 >>
 endobj
-26 0 obj
+25 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-27 0 obj
+26 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-28 0 obj
+27 0 obj
 <<
 /S /D /St 3
 >>
 endobj
 xref
-0 29
+0 28
 0000000000 65535 f 
 0000000073 00000 n 
 0000000125 00000 n 
 0000000232 00000 n 
 0000000344 00000 n 
-0000000524 00000 n 
-0000000747 00000 n 
-0000000952 00000 n 
-0000001147 00000 n 
-0000001342 00000 n 
-0000001537 00000 n 
-0000001733 00000 n 
-0000001929 00000 n 
-0000002045 00000 n 
-0000002295 00000 n 
-0000002401 00000 n 
-0000002670 00000 n 
-0000002744 00000 n 
-0000002872 00000 n 
-0000002996 00000 n 
-0000003118 00000 n 
-0000003229 00000 n 
-0000003302 00000 n 
-0000011702 00000 n 
-0000022028 00000 n 
-0000025539 00000 n 
-0000025598 00000 n 
-0000025632 00000 n 
-0000025666 00000 n 
+0000000516 00000 n 
+0000000729 00000 n 
+0000000924 00000 n 
+0000001115 00000 n 
+0000001302 00000 n 
+0000001492 00000 n 
+0000001684 00000 n 
+0000001800 00000 n 
+0000002033 00000 n 
+0000002139 00000 n 
+0000002408 00000 n 
+0000002482 00000 n 
+0000002604 00000 n 
+0000002722 00000 n 
+0000002838 00000 n 
+0000002943 00000 n 
+0000003016 00000 n 
+0000012165 00000 n 
+0000022299 00000 n 
+0000024049 00000 n 
+0000024108 00000 n 
+0000024142 00000 n 
+0000024176 00000 n 
 trailer
 <<
 /ID 
-[<9982a6c16d16e6bdaad14271db4ab44f><9982a6c16d16e6bdaad14271db4ab44f>]
+[<b206770461c0011225c743fdc13282c5><b206770461c0011225c743fdc13282c5>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 15 0 R
-/Root 14 0 R
-/Size 29
+/Info 14 0 R
+/Root 13 0 R
+/Size 28
 >>
 startxref
-25700
+24210
 %%EOF
