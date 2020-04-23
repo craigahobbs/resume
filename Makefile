@@ -2,13 +2,13 @@
 
 RST2PDF_VERSION := 0.96
 
-resume.pdf: resume.rst build/env.build
-	build/env/bin/rst2pdf $< -o $@ -s $(basename $<).yaml
+build/resume.pdf: resume.rst build/env.build
+	build/env/bin/rst2pdf $< -o $@ -s $(basename $<).json
 
-resume.html: resume.rst build/env.build
+build/resume.html: resume.rst build/env.build
 	build/env/bin/rst2html.py $< $@ --stylesheet-path $(basename $<).css
 
-resume.txt: resume.rst
+build/resume.txt: resume.rst
 	tail -n +3 $< > $@
 
 build/env.build:
@@ -18,7 +18,7 @@ build/env.build:
 	touch $@
 
 .PHONY: all
-all: check resume.pdf resume.html resume.txt
+all: check build/resume.pdf build/resume.html build/resume.txt
 
 .PHONY: check
 check:
@@ -27,3 +27,10 @@ check:
 .PHONY: clean
 clean:
 	rm -rf build
+
+.PHONY: gh-pages
+gh-pages: clean all
+	if [ ! -d ../$(notdir $(CURDIR)).doc ]; then git clone -b gh-pages `git config --get remote.origin.url` ../$(notdir $(CURDIR)).doc; fi
+	cd ../$(notdir $(CURDIR)).doc && git pull
+	cp build/resume.* ../$(notdir $(CURDIR)).doc
+	touch ../$(notdir $(CURDIR)).doc/.nojekyll
