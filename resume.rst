@@ -28,10 +28,9 @@ Experience
 | Zillow Group, Seattle, WA
 | 2/2017 - 5/2019
 
-Director of Engineering responsible for Zillow Home Loans, Zillow Mortgages (marketplace), and
-Mortech.
+Director of Engineering responsible for Zillow Home Loans, Zillow Mortgages, and Mortech.
 
-* Managed three geographically distributed software development teams
+* Managed three software development teams with sizes ranging from 5-8 developers each
 
 * Launched Zillow Home Loans with revamped technology stack
 
