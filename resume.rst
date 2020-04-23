@@ -30,7 +30,7 @@ Experience
 
 Director of Engineering responsible for Zillow Home Loans, Zillow Mortgages, and Mortech.
 
-* Managed three software development teams with sizes ranging from 5-8 developers each
+* Managed development organization of 22 people spread across three geographically distributed teams
 
 * Launched Zillow Home Loans with revamped technology stack
 
