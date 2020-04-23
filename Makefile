@@ -3,10 +3,10 @@
 RST2PDF_VERSION := 0.96
 
 resume.pdf: resume.rst build/env.build
-	build/env/bin/rst2pdf $< -s $(basename $<).yaml -o $@
+	build/env/bin/rst2pdf $< -o $@ -s $(basename $<).yaml
 
 resume.html: resume.rst build/env.build
-	build/env/bin/rst2html.py $< $@
+	build/env/bin/rst2html.py $< $@ --stylesheet-path $(basename $<).css
 
 resume.txt: resume.rst
 	tail -n +3 $< > $@
