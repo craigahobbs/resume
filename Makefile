@@ -11,6 +11,11 @@ build/resume.html: resume.rst build/env.build
 build/resume.txt: resume.rst
 	tail -n +3 $< > $@
 
+build/check.build: resume.rst
+	mkdir -p $(dir $@)
+	python3 -c "open('$<', 'rb').read().decode('ascii')"
+	touch $@
+
 build/env.build:
 	python3 -m venv build/env
 	build/env/bin/pip install -U pip setuptools
@@ -18,11 +23,7 @@ build/env.build:
 	touch $@
 
 .PHONY: all
-all: check build/resume.pdf build/resume.html build/resume.txt
-
-.PHONY: check
-check:
-	python3 -c "open('resume.rst', 'rb').read().decode('ascii')"
+all: build/check.build build/resume.pdf build/resume.html build/resume.txt
 
 .PHONY: clean
 clean:
