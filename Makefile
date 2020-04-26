@@ -31,7 +31,7 @@ clean:
 
 .PHONY: gh-pages
 gh-pages: clean all
-	if [ ! -d ../$(notdir $(CURDIR)).doc ]; then git clone -b gh-pages `git config --get remote.origin.url` ../$(notdir $(CURDIR)).doc; fi
-	cd ../$(notdir $(CURDIR)).doc && git pull
-	cp build/resume.* ../$(notdir $(CURDIR)).doc
-	touch ../$(notdir $(CURDIR)).doc/.nojekyll
+	if [ ! -d ../$(notdir $(CURDIR)).gh-pages ]; then git clone -b gh-pages `git config --get remote.origin.url` ../$(notdir $(CURDIR)).gh-pages; fi
+	cd ../$(notdir $(CURDIR)).gh-pages && git pull
+	cp build/resume.* ../$(notdir $(CURDIR)).gh-pages
+	touch ../$(notdir $(CURDIR)).gh-pages/.nojekyll
