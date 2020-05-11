@@ -11,9 +11,9 @@ build/resume.html: resume.rst resume.css build/env.build
 build/resume.txt: resume.rst
 	tail -n +3 $< > $@
 
-build/check.build: resume.rst
+build/check.build: resume.rst resume.css resume.json
 	mkdir -p $(dir $@)
-	python3 -c "open('$<', 'rb').read().decode('ascii')"
+	$(foreach F, $?, python3 -c "open('$F', 'rb').read().decode('ascii')" &&) :
 	touch $@
 
 build/env.build:
