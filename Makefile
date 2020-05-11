@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := all
 
-RST2PDF_VERSION := 0.96
+RST2PDF_VERSION := 0.97
 
 build/resume.pdf: resume.rst build/env.build
 	build/env/bin/rst2pdf $< -o $@ -s $(basename $<).json
