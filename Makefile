@@ -2,10 +2,10 @@
 
 RST2PDF_VERSION := 0.97
 
-build/resume.pdf: resume.rst build/env.build
+build/resume.pdf: resume.rst resume.json build/env.build
 	build/env/bin/rst2pdf $< -o $@ -s $(basename $<).json
 
-build/resume.html: resume.rst build/env.build
+build/resume.html: resume.rst resume.css build/env.build
 	build/env/bin/rst2html.py $< $@ --stylesheet-path $(basename $<).css
 
 build/resume.txt: resume.rst
