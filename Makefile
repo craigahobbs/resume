@@ -18,7 +18,7 @@ build/check.build: resume.rst resume.css resume.json
 
 build/env.build:
 	python3 -m venv build/env
-	build/env/bin/pip install -U pip setuptools
+	build/env/bin/pip install -U pip setuptools wheel
 	build/env/bin/pip install rst2pdf==$(RST2PDF_VERSION)
 	touch $@
 
