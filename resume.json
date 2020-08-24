@@ -1,48 +1,17 @@
 {
-    "pageSetup": {
-        "size": "Letter",
-        "margin-top": "0.5in",
-        "margin-bottom": "0.5in",
-        "margin-left": "0.75in",
-        "margin-right": "0.75in"
-    },
-    "styles": {
-        "base": {
-            "fontSize": "10pt"
-        },
-        "normal": {
-            "parent": "base"
-        },
-        "bodytext": {
-            "parent": "normal",
-            "alignment": "TA_LEFT",
-            "hyphenation": "false",
-            "spaceBefore": "6pt"
-        },
-        "bullet-list": {
-            "parent": "bodytext",
-            "colWidths": ["10pt", null],
-            "spaceBefore": "2pt",
-            "spaceAfter": "4pt"
-        },
-        "bullet-list-item": {
-            "parent": "bodytext",
-            "spaceBefore": "2pt"
-        },
-        "heading": {
-            "parent": "normal",
-            "spaceBefore": "8pt",
-            "spaceAfter": "0pt"
-        },
-        "title": {
-            "parent": "heading",
-            "fontSize": "18pt",
-            "alignment": "TA_LEFT",
-            "spaceAfter": "2pt"
-        },
-        "heading1": {
-            "parent": "heading",
-            "fontSize": "14pt"
+    "title": "Resume of Craig Hobbs",
+    "titleURL": "title.md",
+    "headerColor": "lightgray",
+    "titleColor": "lightblue",
+    "categories": [
+        {
+            "title": "Content",
+            "files": [
+                {
+                    "title": "Resume",
+                    "url": "resume.md"
+                }
+            ]
         }
-    }
+    ]
 }
