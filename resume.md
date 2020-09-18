@@ -153,16 +153,16 @@ Patents
 -------
 
 Hobbs, C.
-"[Functions acting on arbitrary geometric paths](https://patents.google.com/patent/US7612776)"
-\- US Patent No. 7612776, 2009
+"[Functions acting on arbitrary geometric paths](https://patents.google.com/patent/US7612776)" -
+US Patent No. 7612776, 2009
 
 Hobbs, C.
-"[A Method for Formulaically Redirecting and Modifying Formula Set Operations in a Spreadsheet](https://patents.google.com/patent/US7444584)"
-\- US Patent No. 7444584, 2008
+"[A Method for Formulaically Redirecting and Modifying Formula Set Operations in a Spreadsheet](https://patents.google.com/patent/US7444584)" -
+US Patent No. 7444584, 2008
 
 Hobbs, C., LeGendre, S., Fuhr, R.
-"[System and method for placing splines using refinement and obstacle avoidance techniques](https://patents.google.com/patent/US6650328)"
-\- US Patent No. 6650328, 2003
+"[System and method for placing splines using refinement and obstacle avoidance techniques](https://patents.google.com/patent/US6650328)" -
+US Patent No. 6650328, 2003
 
 
 Education
