@@ -1,5 +1,5 @@
-Craig Hobbs
-===========
+Craig A. Hobbs
+==============
 
 7051 Alonzo Ave NW  
 Seattle, WA 98117  

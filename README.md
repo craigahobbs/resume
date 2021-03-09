@@ -1,5 +1,5 @@
-Craig Hobbs
-===========
+Craig A. Hobbs
+==============
 
 [HTML Resume](https://craigahobbs.github.io/markdown-book/#id=resume&url=https://craigahobbs.github.io/resume/resume.json)
 
