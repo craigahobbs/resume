@@ -168,7 +168,7 @@ US Patent No. 6650328, 2003
 Education
 ---------
 
-*Masters of Business Administration (MBA), Technology Management*, 2007  
+*Master of Business Administration (MBA), Technology Management*, 2007  
 University of Washington, Seattle, WA
 
 *Bachelor of Science (BSc), Electrical and Computer Engineering*, 1993  
