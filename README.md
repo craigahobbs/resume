@@ -1,7 +1,7 @@
 Craig A. Hobbs
 ==============
 
-[HTML Resume](https://craigahobbs.github.io/markdown-book/#id=resume&url=https://craigahobbs.github.io/resume/resume.json)
+[HTML Resume](https://craigahobbs.github.io/resume/#url=resume.md)
 
 [Text Resume](https://craigahobbs.github.io/resume/resume.md)
 
