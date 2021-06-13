@@ -1,7 +1,7 @@
 Craig A. Hobbs
 ==============
 
-[Index](https://craigahobbs.github.io/resume/)
+[Home](https://craigahobbs.github.io/resume/)
 
 [HTML Resume](https://craigahobbs.github.io/resume/#url=resume.md)
 

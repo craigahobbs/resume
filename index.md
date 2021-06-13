@@ -4,4 +4,4 @@
 
 [Text Resume](https://craigahobbs.github.io/resume/resume.md)
 
-[Source Code](https://github.com/craigahobbs/resume#readme)
+[Source Code](https://github.com/craigahobbs/resume)
